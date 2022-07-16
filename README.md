@@ -9,7 +9,7 @@ Amazed by the Citibike in New York City, which allows tourists to bike everywher
 In this program, we used Tableau Public to analyze the Citibike data in New York in August 2019. The data visualization below will tell us who are using city bikes during the day, the week they tend to use them, and the peak hours of usage in August.
 
 
-### 1. Who is using Citibike
+### 1. Who is using Citibike?
 
 
 ![The_user_info](images/The_user_info.png)
@@ -27,7 +27,7 @@ In this program, we used Tableau Public to analyze the Citibike data in New York
 - Bikes are mostly checked out for short rides. Most bikes are used and returned within an hour, and 20 minutes is what over 50% of riders would use.
 
 
-### 3. When do they tend to use sharing bikes.
+### 3. When do they tend to use sharing bikes?
 
 
 ![trips_weekday_info](images/trips_weekday_info.png)
