@@ -3,7 +3,7 @@
 ## Overview of the analysis:
 Amazed by the Citibike in New York City, which allows tourists to bike everywhere to get to know the city and interact with the people who live there using bikes for the daily commute, we want to start a similar sharing business for our hometown of Des Moines, Iowa. We want to study the Citibike program in New York City to figure out how it works there and carefully choose the mechanisms to apply to Des Moines. We will use data analysis and visualization to impress the potential investor for seed funding.
 
-#### Data Resource:
+#### Data Resource: 
 https://ride.citibikenyc.com/system-data
 
 
